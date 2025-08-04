@@ -1,10 +1,12 @@
 # Atmospheric reactions
-Degradation reactions of atmospheric compounds with hydroxyl radicals (OH•), ozone (O₃), and atomic oxygen (O).
+Degradation reactions of atmospheric compounds with hydroxyl radicals (•OH), ozone (O₃), and atomic oxygen (O).
 
 
 
 
-Reactions with OH radical:
+
+
+Reactions with •OH radical:
 
 -File 'diss_reacao_Atmosferica_01': attack on the double bonds of aromatic chains;
 
