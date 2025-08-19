@@ -1,10 +1,7 @@
 # Atmospheric reactions
 Oxidation reactions of atmospheric compounds with hydroxyl radicals (•OH), ozone (O₃), and atomic oxygen (O).<br/>
-
-
-
-
-
+<br/>
+<br/>
 
 ### Reactions with •OH radical:
 
