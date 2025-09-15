@@ -27,4 +27,4 @@ Oxidation reactions of atmospheric compounds with hydroxyl radicals (•OH), ozo
 <br/>
 <br/>
 ### Machine learning models
-Extra Tree Classifier model (best results) and Keras Neural Network model, using QSAR descriptors for predicting variables for Mutagenicity
+Extra Tree Classifier model (best results) and Keras Neural Network model, using QSAR descriptors (calculated for each molecule) for predicting variables for Mutagenicity
