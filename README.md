@@ -31,4 +31,4 @@ Extra Tree Classifier model (best results) and Keras Neural Network model, using
 
 Mutagenicity calculated with ISSSTY database on Salmonella typhimurium (Ames test) bacterial mutagenicity.
 
-![logo] (C:\Fernando\Mestrado_IFG\alunos2023\Dhiully\ISSSTY\logo.jpg)
+<img src="https://github.com/Schimidt99/atmospheric_reactions/blob/main/logo.jpg" width="128"/>
