@@ -26,4 +26,5 @@ Oxidation reactions of atmospheric compounds with hydroxyl radicals (•OH), ozo
 -File 'diss_reacao_Atmosferica_07': attack on aromatic hydrocarbons;
 <br/>
 <br/>
-Machine learning models for predicting variables for Mutagenicity, using Extra Tree Classifier (best results) and Keras Neural Network
+### Machine learning models
+Extra Tree Classifier model (best results) and Keras Neural Network model, for predicting variables for Mutagenicity
