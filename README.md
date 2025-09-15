@@ -30,3 +30,4 @@ Oxidation reactions of atmospheric compounds with hydroxyl radicals (•OH), ozo
 Extra Tree Classifier model (best results) and Keras Neural Network model, using QSAR descriptors (calculated for each molecule) for predicting variables for Mutagenicity.
 
 Mutagenicity calculated with ISSSTY database on Salmonella typhimurium (Ames test) bacterial mutagenicity.
+![logo] (https://github.com/Schimidt99/atmospheric_reactions/blob/main/logo.jpg)
