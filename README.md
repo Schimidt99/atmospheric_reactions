@@ -29,4 +29,4 @@ Oxidation reactions of atmospheric compounds with hydroxyl radicals (•OH), ozo
 ### Machine learning models
 Extra Tree Classifier model (best results) and Keras Neural Network model, using QSAR descriptors (calculated for each molecule) for predicting variables for Mutagenicity.
 
-ISSSTY database on Salmonella typhimurium (Ames test) bacterial mutagenicity.
+Mutagenicity calculated with ISSSTY database on Salmonella typhimurium (Ames test) bacterial mutagenicity.
